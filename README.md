@@ -1,6 +1,7 @@
-# riparian_buffer
-![riparian-bufer](images/riparian_buffer_tsm_composite.png)
+# Chesapeake Bay Riparian Buffer Notebook
+---
 The goal of this notebook is to explore novel methods for remotely evaluating riparian buffer zones and assessing their ecological effects on water quality.
+![riparian-bufer](images/riparian_buffer_tsm_composite.png)
 ![elizabeth-river](images/riparian_buffers.png)
 
 This notebook was developed as an example for the [Viginia Open Data Cube](https://datacube.online)
